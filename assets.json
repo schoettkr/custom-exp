@@ -5,7 +5,7 @@
       "description":"New future of finance by making investing as easy and transparent as possible for capital increase, shareholder agreements, etc.",
       "ledgerId":"1",
       "ticker":"CLAG",
-      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/coreledger_200x150",
+      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/coreledger_200x150.jpg",
       "price":"40",
       "url":"https://coreledger.net/"
    },
@@ -14,7 +14,7 @@
       "assetId":"1038765026782798833423271",
       "ledgerId":"1",
       "ticker":"FINE",
-      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/finegold_200x150",
+      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/feingold_200x150.jpeg",
       "price":"350",
       "url":"https://en.wikipedia.org/wiki/Gold_as_an_investment"
    },
@@ -23,7 +23,7 @@
       "assetId":"1038765026782798833423272",
       "ledgerId":"1",
       "ticker":"CADI",
-      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/cadillac_200x150",
+      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/cadillac_200x150.png",
       "price":"600",
       "url":"https://www.cadillac.com/"
    },
@@ -32,7 +32,7 @@
       "assetId":"1038765026782798833423273",
       "ledgerId":"1",
       "ticker":"VEN",
-      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/veneno_200x150",
+      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/veneno_200x150.png",
       "price":"4000",
       "url":"https://www.lamborghini.com/en-en/brand/masterpieces/veneno"
    },
@@ -41,7 +41,7 @@
       "assetId":"1038765026782798833423274",
       "ledgerId":"1",
       "ticker":"CATL",
-      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/highland_200x150",
+      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/highland_200x150.png",
       "price":"100",
       "url":"http://animalia.bio/highland-cattle"
    },
@@ -50,7 +50,7 @@
       "assetId":"1038765026782798833423275",
       "ledgerId":"1",
       "ticker":"GULF",
-      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/g7001_200x150",
+      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/g7001_200x150.png",
       "price":"30000",
       "url":"https://privatejetcharter.com/gulfstream-g700-private-jet-charter/"
    },
@@ -59,7 +59,7 @@
       "assetId":"1038765026782798833423276",
       "ledgerId":"1",
       "ticker":"COPR",
-      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/copper_200x150",
+      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/copper_200x150.png",
       "price":"10",
       "url":"https://www.lme.com/en-gb/metals/non-ferrous/copper/#tabIndex=0"
    },
@@ -68,7 +68,7 @@
       "assetId":"1038765026782798833423277",
       "ledgerId":"1",
       "ticker":"IMMO",
-      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/W53_200x150",
+      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/W53_200x150.png",
       "price":"7000",
       "url":"https://www.hilliardgrandapartments.com/gallery/"
    },
@@ -77,7 +77,7 @@
       "assetId":"1038765026782798833423278",
       "ledgerId":"1",
       "ticker":"STEL",
-      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/notte_stellata_200x150",
+      "icon":"https://raw.githubusercontent.com/schoettkr/custom-exp/master/icons/notte_stellata_200x150.png",
       "price":"3300",
       "url":"https://artsandculture.google.com/asset/the-starry-night/bgEuwDxel93-Pg?hl=it"
    }
