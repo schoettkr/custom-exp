@@ -1,0 +1,84 @@
+[
+   {
+      "name":"CoreLedger AG Share",
+      "assetId":"897131459254702105916269",
+      "description":"New future of finance by making investing as easy and transparent as possible for capital increase, shareholder agreements, etc.",
+      "ledgerId":"1",
+      "ticker":"CLAG",
+      //"icon":coreledger_200x150,
+      "price":"40",
+      "url":"https://coreledger.net/"
+   },
+   {
+      "name":"Fine Gold Shares",
+      "assetId":"1038765026782798833423271",
+      "ledgerId":"1",
+      "ticker":"FINE",
+      //"icon":finegold_200x150,
+      "price":"350",
+      "url":"https://en.wikipedia.org/wiki/Gold_as_an_investment"
+   },
+   {
+      "name":"Oldtimer 1960 Cadillac Shares",
+      "assetId":"1038765026782798833423272",
+      "ledgerId":"1",
+      "ticker":"CADI",
+      //"icon":cadillac_200x150,
+      "price":"600",
+      "url":"https://www.cadillac.com/"
+   },
+   {
+      "name":"Super Car Lamborghini Veneno Shares",
+      "assetId":"1038765026782798833423273",
+      "ledgerId":"1",
+      "ticker":"VEN",
+      //"icon":veneno_200x150,
+      "price":"4000",
+      "url":"https://www.lamborghini.com/en-en/brand/masterpieces/veneno"
+   },
+   {
+      "name":"Mike & Kates Highland Cattle Farm Token",
+      "assetId":"1038765026782798833423274",
+      "ledgerId":"1",
+      "ticker":"CATL",
+      //"icon":highland_200x150,
+      "price":"100",
+      "url":"http://animalia.bio/highland-cattle"
+   },
+   {
+      "name":"Gulfstream G700 Revenue Shares",
+      "assetId":"1038765026782798833423275",
+      "ledgerId":"1",
+      "ticker":"GULF",
+      //"icon":g7001_200x150,
+      "price":"30000",
+      "url":"https://privatejetcharter.com/gulfstream-g700-private-jet-charter/"
+   },
+   {
+      "name":"Industrial Copper Shares",
+      "assetId":"1038765026782798833423276",
+      "ledgerId":"1",
+      "ticker":"COPR",
+      //"icon":copper_200x150,
+      "price":"10",
+      "url":"https://www.lme.com/en-gb/metals/non-ferrous/copper/#tabIndex=0"
+   },
+   {
+      "name":"53W53 Apartment Shares Luxury Living NYC",
+      "assetId":"1038765026782798833423277",
+      "ledgerId":"1",
+      "ticker":"IMMO",
+      //"icon":W53_200x150,
+      "price":"7000",
+      "url":"https://www.hilliardgrandapartments.com/gallery/"
+   },
+   {
+      "name":"Shares of the famous Notte Stellata by Van Gogh",
+      "assetId":"1038765026782798833423278",
+      "ledgerId":"1",
+      "ticker":"STEL",
+      //"icon":notte_stellata_200x150,
+      "price":"3300",
+      "url":"https://artsandculture.google.com/asset/the-starry-night/bgEuwDxel93-Pg?hl=it"
+   }
+]
