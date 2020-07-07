@@ -108,3 +108,13 @@
 .text-stamp-text {
     color: #000000;
 }
+
+/****************/
+/* Table Colors */
+/****************/
+.bg-table-even {
+    background-color: #002d46;
+}
+.bg-table-odd {
+    background-color: #01486f;
+}
