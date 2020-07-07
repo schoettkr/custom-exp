@@ -85,3 +85,16 @@
 .text-modal-accent {
     color: #00b1eb;
 }
+
+/****************/
+/* Stamp Colors */
+/****************/
+.bg-stamp {
+    background-color: #8cd6ff;
+}
+.bg-stamp-accent {
+    background-color: #00b1eb;
+}
+.text-stamp-text {
+    color: #000000;
+}
