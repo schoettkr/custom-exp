@@ -53,3 +53,19 @@
 .text-heading-text {
     color: #8cd6ff;
 }
+
+/***************/
+/* Main Colors */
+/***************/
+.bg-main-background {
+    background-color: #002d46;
+}
+.text-main-text {
+    color: #ffffff;
+}
+.text-main-title {
+    color: #00b1eb;
+}
+.text-main-muted {
+    color: #007aad;
+}
