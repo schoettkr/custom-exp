@@ -36,3 +36,13 @@
 .text-button-text {
     color: #ffffff
 }
+
+/***************/
+/* Card Colors */
+/***************/
+.bg-card-background {
+    background-color: #01486f;
+}
+.text-card-text {
+    color: #ffffff;
+}
