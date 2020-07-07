@@ -1,3 +1,16 @@
+/*****************/
+/* Accent Colors */
+/*****************/
+.text-accent {
+    color: #00b1eb;
+}
+.bg-accent {
+    background-color: #00b1eb;
+}
+
+/*****************/
+/* Button Colors */
+/*****************/
 .bg-button {
     background-color: #00b1eb; 
 }
