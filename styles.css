@@ -30,6 +30,9 @@
 .bg-button-light {
     background-color: #00b1eb;
 }
+.bg-button-light:hover {
+    background-color: #006997;
+}
 .bg-button-muted {
     background-color: #007aad;
 }
