@@ -69,3 +69,16 @@
 .text-main-muted {
     color: #007aad;
 }
+
+/****************/
+/* Modal Colors */
+/****************/
+.bg-modal-background {
+    background-color: #01486f;
+}
+.text-modal-text {
+    color: #ffffff;
+}
+.text-modal-accent {
+    color: #00b1eb;
+}
