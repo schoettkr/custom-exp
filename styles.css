@@ -9,6 +9,16 @@
 }
 
 /*****************/
+/* Border Colors */
+/*****************/
+.border-border {
+    border-color: #006997;
+}
+.border-border-accent {
+    border-color: #00b1eb;
+}
+
+/*****************/
 /* Button Colors */
 /*****************/
 .bg-button {
