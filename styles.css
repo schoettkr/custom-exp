@@ -1,3 +1,15 @@
-.bg-sidebar-background {
-    background-color: #01486f;
+.bg-button {
+    background-color: #00b1eb; 
+}
+.bg-button-hover {
+    background-color: #006997;
+}
+.bg-button-light {
+    background-color: #00b1eb;
+}
+.bg-button-muted {
+    background-color: #007aad;
+}
+.text-button-text {
+    color: #ffffff
 }
