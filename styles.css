@@ -86,6 +86,16 @@
     color: #00b1eb;
 }
 
+/******************/
+/* Sidebar Colors */
+/******************/
+.bg-sidebar-background {
+    background-color: #01486f;
+}
+.text-sidebar-text {
+    color: #ffffff;
+}
+
 /****************/
 /* Stamp Colors */
 /****************/
