@@ -24,7 +24,7 @@
 .bg-button {
     background-color: #00b1eb; 
 }
-.bg-button-hover {
+.hover:bg-button-hover {
     background-color: #006997;
 }
 .bg-button-light {
