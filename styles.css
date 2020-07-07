@@ -34,7 +34,7 @@
     background-color: #007aad;
 }
 .text-button-text {
-    color: #ffffff
+    color: #ffffff;
 }
 
 /***************/
@@ -45,4 +45,11 @@
 }
 .text-card-text {
     color: #ffffff;
+}
+
+/******************/
+/* Heading Colors */
+/******************/
+.text-heading-text {
+    color: #8cd6ff;
 }
